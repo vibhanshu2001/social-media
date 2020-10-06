@@ -1,0 +1,57 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.btn-primary{
+    background-color: #f1c40f !important;
+    border-color: #f1c40f !important;
+    color: #fff !important;
+}
+.btn-primary:hover{
+    background-color: rgba(0,0,0,0) !important;
+    border-color: #f1c40f !important;
+    color: #f1c40f !important;
+}
+.nav-item{
+    padding: 10px;
+}
+.topbar{
+    padding: 0;
+}
+.topbar-back{
+    background-color: #f1c40f;
+    
+}
+.icon-fa{
+    color: #fff;
+}
+.image-profile{
+    padding: 0;
+}
+.profile-sec{
+    border: 3px solid #f1c40f;
+}
+.fa-map-marker{
+    color: #f1c40f;
+}
+.view-profile{
+    color: #f1c40f;
+    text-decoration: none;
+}
+.view-profile:hover{
+    text-decoration: none;
+}
+.card, .list-group{
+    border-radius: 15px;
+}
+.fa-user{
+    border: 1px solid rgb(158, 158, 158);
+    padding: 6px;
+    color: rgb(66, 66, 66);
+}
+.time-posted{
+    color: rgb(122, 117, 117);
+}
+.icon-like{
+    color:  #f1c40f;
+}
